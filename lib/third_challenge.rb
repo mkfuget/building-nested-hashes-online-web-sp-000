@@ -18,12 +18,12 @@ def third_challenge
    }, 
    :capulet => {
       :patriarch => {
-          :name => "Lord Montague",
-          :age => "53"
+          :name => "Lord Capulet",
+          :age => "50"
         },
       :matriarch => {
           :name => "Lady Capulet",
-          :age => "53"
+          :age => "51"
         },
       :heroine => {
           :name => "Lord Montague",
