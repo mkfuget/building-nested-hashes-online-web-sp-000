@@ -10,7 +10,7 @@ def third_challenge
           :age => "54"
         },
       :hero => {
-          :name => "Lord Montague",
+          :name => "Romeo",
           :age => "53"
         },
       :hero_friends => []
