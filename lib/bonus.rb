@@ -21,6 +21,7 @@ def bonus
   }
 
   [:montague][:hero][:status] = "dead"
+  [:capulet][:hero][:status] = "dead"
 
   
 
